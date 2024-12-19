@@ -1,0 +1,33 @@
+		**welcome**
+
+Bill Number: 892
+Customer Name: hema
+Customer Phone Number: 750408868
+=======================================================
+Product			Quantity			Price
+=======================================================
+Bath Soap			2			40 Rs
+Face Cream			2			100 Rs
+Face Wash			3			300 Rs
+Hair Spray			2			300 Rs
+Hair Gel			1			80 Rs
+Body Lotion			2			120 Rs
+Rice			4			120 Rs
+Oil			3			360 Rs
+Daal			2			200 Rs
+Wheat			4			320 Rs
+Sugar			2			100 Rs
+Tea			4			560 Rs
+Maaza			5			250 Rs
+Pepsi			1			20 Rs
+Sprite			1			30 Rs
+Bovonto			1			20 Rs
+Frooti			5			450 Rs
+Coca Cola			1			45 Rs
+=======================================================
+Cosmetic Tax		112.8 Rs
+Grocery Tax		83.0 Rs
+Drinks Tax		65.2 Rs
+
+		Total Bill 		 3676.0
+=======================================================

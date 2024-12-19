@@ -1,0 +1,19 @@
+		**welcome**
+
+Bill Number: 900
+Customer Name: sowmiya
+Customer Phone Number: 234567891
+=======================================================
+Product			Quantity			Price
+=======================================================
+Hair Spray			1			150 Rs
+Oil			4			480 Rs
+Wheat			1			80 Rs
+Maaza			2			100 Rs
+=======================================================
+Cosmetic Tax		18.0 Rs
+Grocery Tax		28.0 Rs
+Drinks Tax		8.0 Rs
+
+		Total Bill 		 864.0
+=======================================================

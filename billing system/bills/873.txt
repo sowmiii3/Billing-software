@@ -1,0 +1,18 @@
+		**welcome**
+
+Bill Number: 873
+Customer Name: priya
+Customer Phone Number: 6538538589
+=======================================================
+Product			Quantity			Price
+=======================================================
+Hair Spray			1			150 Rs
+Rice			1			30 Rs
+Frooti			1			90 Rs
+=======================================================
+Cosmetic Tax		18.0 Rs
+Grocery Tax		1.5 Rs
+Drinks Tax		7.2 Rs
+
+		Total Bill 		 296.7
+=======================================================

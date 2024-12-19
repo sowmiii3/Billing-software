@@ -1,0 +1,23 @@
+		**welcome**
+
+Bill Number: 660
+Customer Name: moni
+Customer Phone Number: 234567891
+=======================================================
+Product			Quantity			Price
+=======================================================
+Bath Soap			1			20 Rs
+Face Cream			3			150 Rs
+Face Wash			4			400 Rs
+Body Lotion			2			120 Rs
+Oil			2			240 Rs
+Sugar			1			50 Rs
+Maaza			2			100 Rs
+Frooti			1			90 Rs
+=======================================================
+Cosmetic Tax		82.8 Rs
+Grocery Tax		14.5 Rs
+Drinks Tax		15.200000000000001 Rs
+
+		Total Bill 		 1282.5
+=======================================================

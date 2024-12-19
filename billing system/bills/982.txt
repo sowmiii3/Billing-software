@@ -1,0 +1,18 @@
+		**welcome**
+
+Bill Number: 982
+Customer Name: gasf
+Customer Phone Number: 42646
+=======================================================
+Product			Quantity			Price
+=======================================================
+Hair Spray			4			600 Rs
+Oil			2			240 Rs
+Frooti			8			720 Rs
+=======================================================
+Cosmetic Tax		72.0 Rs
+Grocery Tax		12.0 Rs
+Drinks Tax		57.6 Rs
+
+		Total Bill 		 1701.6
+=======================================================
